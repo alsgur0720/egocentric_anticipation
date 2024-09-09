@@ -1,0 +1,5 @@
+opencv-python==4.4.0.46
+scikit-image==0.16.2
+scikit-learn==0.23.1
+tqdm==4.44.1
+yacs==0.1.8
