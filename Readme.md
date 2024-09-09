@@ -11,7 +11,7 @@
         ```
         And activate the environment.
         ```
-        conda activate ego-a4
+        conda activate ego-a3
         ```
 
     1. Install the requirements
