@@ -1,4 +1,4 @@
-# Disentangled Adaptive Fusion Transformer using Cooperative Adversarial Perturbation for Egocentric Action Anticipation
+# Egocentric Action Anticipation
 
 
 ## Environment
