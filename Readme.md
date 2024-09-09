@@ -7,7 +7,7 @@
 
     0. [Optional but recommended] create a new conda environment.
         ```
-        conda create -n ego-a4 python=3.10.0
+        conda create -n ego-a3 python=3.10.0
         ```
         And activate the environment.
         ```
