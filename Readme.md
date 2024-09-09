@@ -67,18 +67,15 @@
 The commands are as follows.
 
 ```
-cd Ego_A4
+cd Ego_A3
 # Training from scratch
 python tools/train_net.py --config_file $PATH_TO_CONFIG_FILE --gpu $CUDA_VISIBLE_DEVICES
 
-# Training for perturbation injection_module
-python tools/train_net_rev.py --config_file $PATH_TO_CONFIG_FILE --gpu $CUDA_VISIBLE_DEVICES \ MODEL.CHECKPOINT $PATH_TO_CHECKPOINT
-```
 
 
 # Inference
 
-cd Ego_A4
+cd Ego_A3
 python tools/test_net_rev.py --config_file $PATH_TO_CONFIG_FILE --gpu $CUDA_VISIBLE_DEVICES \ MODEL.CHECKPOINT $PATH_TO_CHECKPOINT MODEL.CHECKPOINT $PATH_TO_REV_CHECKPOINT
 
 
